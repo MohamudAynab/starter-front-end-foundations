@@ -1,13 +1,15 @@
 body {
   margin: 0;
+  font-family: 'Montserrat', sans-serif;
 }
 
 header {
-  background-color: #000;
+  background-color: #0B1C51;
   margin-bottom: 40px;
 }
 
 header h1 {
+  font-size: 52px;
   color: #fff;
   text-align: center;
   margin: 0;
@@ -53,6 +55,7 @@ header nav ul li:last-child a {
     padding: 0 30px;
   }
   header h1 {
+    font-size: 48px;
     /* Sets 14 pixels of margin above and below the `h1` and sets 0 pixels of margin to the left and right. */
     margin: 14px 0;
     /* Removes or sets 0 pixels of padding above the `h1`. */
